@@ -78,37 +78,25 @@ A highly motivated **2nd-year B.Tech CSIT student** at Chameli Devi Group of Ins
 
 ---
 
-## 🗺️ Learning Journey Roadmap
-
-```mermaid
-graph LR
-    A[📊 Statistics] --> B[🤖 Machine Learning];
-    B --> C[🧠 Deep Learning];
-    C --> D[✨ Generative AI];
-    D --> E[⚙️ MLOps];
-    
-    style A fill:#150458,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#11557C,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#00FF99,stroke:#fff,stroke-width:2px,color:#000
-    style E fill:#013243,stroke:#fff,stroke-width:2px,color:#fff
-```
-
-*(Currently mastering Statistics & Machine Learning foundations)*
-
----
-
-## 📈 GitHub Activity
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=suyash-codez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash-codez&theme=radical&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=suyash-codez&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+  </a>
 </div>
 
 <br>
 
+## 📈 GitHub Activity & Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suyash-codez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suyash-codez&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash-codez&theme=dracula&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suyash-codez&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" width="48%" />
 </div>
 
 <br>
@@ -123,7 +111,6 @@ graph LR
   </picture>
 </div>
 
-*(Note: To activate the snake animation, you will need to set up the [snk GitHub Action](https://github.com/Platane/snk) in your profile repository. Until then, this space is ready for it!)*
 
 ---
 
