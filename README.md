@@ -101,14 +101,14 @@ graph LR
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyash-codez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=suyash-codez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash-codez&theme=radical&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-codez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suyash-codez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" width="60%" />
 </div>
 
 <br>
@@ -117,9 +117,9 @@ graph LR
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suyash-codez/suyash-codez/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suyash-codez/suyash-codez/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suyash-codez/suyash-codez/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suyash-codez/suyash-codez/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suyash-codez/suyash-codez/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suyash-codez/suyash-codez/output/github-snake.svg">
   </picture>
 </div>
 
