@@ -1,36 +1,28 @@
+<!-- Hero Section -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Suyash!%20👋&fontSize=50&fontAlignY=35&desc=Data%20Science%20Enthusiast%20&descAlignY=55&descAlign=62" />
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="250" align="center" valign="middle" style="border: none;">
-      <a href="https://github.com/suyash-codez">
-        <img src="https://github.com/suyash-codez.png" width="180" alt="Suyash Verma" style="border-radius: 50%;"/>
-      </a>
-    </td>
-    <td width="600" valign="top" style="border: none;">
-      <p style="font-size: 16px; margin-bottom: 0;">Hola ! I'm</p>
-      <h1 align="left" style="margin-top: 5px; border-bottom: none;">Suyash Verma</h1>
-      <p><code>@suyash-codez</code></p>
-      <br>
-      <p>
-        20, he/him &nbsp;|&nbsp; <b>GenAI Engineer</b> &nbsp;|&nbsp; from India.
-      </p>
-      <p>
-        <a href="#"><img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logoColor=black" alt="Resume"/></a>
-        <a href="mailto:suyashverma0023@gmail.com"><img src="https://img.shields.io/badge/-Email-181717?style=for-the-badge&logo=gmail" alt="Email"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Twitter-181717?style=for-the-badge&logo=x" alt="Twitter"/></a>
-        <a href="https://github.com/suyash-codez"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-        <a href="https://www.linkedin.com/in/suyash-codez"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-      </p>
-      <br>
-      <p>
-        <em>TL;DR: Passionate about Data Science, Machine Learning, and Generative AI. Currently learning, building projects, and sharing my journey publicly.</em>
-      </p>
-    </td>
-  </tr>
-</table>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Data+Science+Student;Building+Machine+Learning+Models;Exploring+Generative+AI;Crafting+Data-Driven+Insights" alt="Typing SVG" />
+  </a>
+  
+  <p align="center">
+    <a href="https://github.com/suyash-codez">
+      <img src="https://komarev.com/ghpvc/?username=suyash-codez&label=Profile%20Views&color=00FF99&style=for-the-badge" alt="Profile Views" />
+    </a>
+  </p>
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+A highly motivated **2nd-year B.Tech CSIT student** at Chameli Devi Group of Institutions (CDGI), building strong foundations through projects, internships, consistency, and public learning. My focus is on turning raw data into meaningful insights and transitioning towards intelligent AI solutions.
+
+* 🎯 **Current Focus:** Data Science, Statistics, Machine Learning, and Generative AI
+* 🚀 **Future Goals:** Mastering Deep Learning, GenAI, and MLOps to become an AI Engineer
+* 🌱 **Currently Learning:** Scikit-learn, Advanced Statistics, and foundational Machine Learning algorithms
+* 💡 **Philosophy:** Consistent builder, public learner, and always curious
 
 ---
 
