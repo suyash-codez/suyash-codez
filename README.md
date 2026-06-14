@@ -217,9 +217,6 @@ In-depth analysis uncovering **pricing strategies, rating patterns**, cuisine po
 
 ---
 
-
----
-
 <!-- Footer -->
 <div align="center">
   <br>
