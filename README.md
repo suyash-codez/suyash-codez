@@ -153,33 +153,7 @@ In-depth analysis uncovering **pricing strategies, rating patterns**, cuisine po
 
 ---
 
-## 📊 Skill Progress
 
-> **Data Analysis & EDA**
-> `████████████████████` 95%
-
-> **Python Programming**
-> `██████████████████░░` 90%
-
-> **Data Visualization**
-> `██████████████████░░` 88%
-
-> **SQL & Databases**
-> `████████████████░░░░` 78%
-
-> **Statistics & Probability**
-> `███████████████░░░░░` 75%
-
-> **Machine Learning**
-> `████████░░░░░░░░░░░░` 40% ← *In Progress*
-
-> **Generative AI & LLMs**
-> `████░░░░░░░░░░░░░░░░` 20% ← *Coming Soon*
-
-> **MLOps & Deployment**
-> `███░░░░░░░░░░░░░░░░░` 15% ← *Coming Soon*
-
----
 
 ## 💼 Experience
 
@@ -243,30 +217,6 @@ In-depth analysis uncovering **pricing strategies, rating patterns**, cuisine po
 
 ---
 
-## 🗓️ Currently Building
-
-```
-📌 #100DaysOfDataScience — Day by day, no breaks
-🤖 Machine Learning — Algorithms, models, evaluation
-📊 5 ML Projects    — IPL Win Predictor coming first
-🧠 GenAI & RAG      — LangChain, Vector DBs, Agents (next)
-🚀 MLOps            — Docker, MLflow, FastAPI deployment
-📝 Building public  — LinkedIn + GitHub daily
-```
-
----
-
-## 🌍 Visitor Map
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/suyash-codez/count.svg" alt="Visitor Counter" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
 ---
 
